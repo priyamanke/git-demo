@@ -2,16 +2,11 @@
 ipsum
 ***********
 
-pish dish
-
-dish pish
-
-push gish
-
-nish pish
-
-kid kish
-
-riyansh
-
-chintu
+this 
+is 
+very 
+first
+paragraph 
+of 
+git demo 
+repository 
